@@ -1,0 +1,7 @@
+{
+  "name": "home-office-digital",
+  "version": "0.1.0",
+  "dependencies": {
+    "@frctl/fractal": "^1.0.11"
+  }
+}
